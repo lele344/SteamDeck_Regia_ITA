@@ -145,6 +145,17 @@ A seconda della versione del progetto possono essere presenti:
 - SteamOS
 - Python 3
 - Accesso Desktop Mode
+- 
+### Licenza
+Copyright (c) 2026 SteamDeck Regia Contributors
+
+SteamDeck Regia is provided free of charge.
+
+Permission is granted to use, copy and modify this software for personal and non-commercial purposes only.
+
+Commercial use, resale, sublicensing, hosting as a paid service, or inclusion in commercial products is strictly prohibited without prior written permission from the author.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 ---
 
