@@ -1,4 +1,4 @@
-# SteamDeck_Regia_ITA
+# SteamDeck Regia
 SteamDeck Regia è una soluzione di controllo remoto pensata per gestire una Steam Deck da un PC tramite browser web, senza dover installare client pesanti sul computer di controllo.
 
 Il progetto è composto da:
